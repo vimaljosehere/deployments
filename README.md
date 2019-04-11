@@ -1,3 +1,5 @@
+# COPIED THE WHOLE REPO FROM https://github.com/simonw/cougar-or-not
+
 # cougar-or-not
 
 My first attempt at a machine learning API, using a pre-calculated model trained using [iNaturalist](https://www.inaturalist.org/) data.
